@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/BlockGangHenk/Blockgangsters.io/static/js/main.ac6f439d.chunk.js",
+    "main.js.map": "/BlockGangHenk/Blockgangsters.io/static/js/main.ac6f439d.chunk.js.map",
+    "runtime-main.js": "/BlockGangHenk/Blockgangsters.io/static/js/runtime-main.2b92714a.js",
+    "runtime-main.js.map": "/BlockGangHenk/Blockgangsters.io/static/js/runtime-main.2b92714a.js.map",
+    "static/css/2.51086c9f.chunk.css": "/BlockGangHenk/Blockgangsters.io/static/css/2.51086c9f.chunk.css",
+    "static/js/2.0f692a62.chunk.js": "/BlockGangHenk/Blockgangsters.io/static/js/2.0f692a62.chunk.js",
+    "static/js/2.0f692a62.chunk.js.map": "/BlockGangHenk/Blockgangsters.io/static/js/2.0f692a62.chunk.js.map",
+    "index.html": "/BlockGangHenk/Blockgangsters.io/index.html",
+    "static/css/2.51086c9f.chunk.css.map": "/BlockGangHenk/Blockgangsters.io/static/css/2.51086c9f.chunk.css.map",
+    "static/js/2.0f692a62.chunk.js.LICENSE.txt": "/BlockGangHenk/Blockgangsters.io/static/js/2.0f692a62.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/BlockGangHenk/Blockgangsters.io/static/media/logo.e0810acd.svg",
+    "static/media/logo_gang_101522.jpg": "/BlockGangHenk/Blockgangsters.io/static/media/logo_gang_101522.adf89a54.jpg",
+    "static/media/missions.d5f7e797.PNG": "/BlockGangHenk/Blockgangsters.io/static/media/missions.d5f7e797.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b92714a.js",
+    "static/css/2.51086c9f.chunk.css",
+    "static/js/2.0f692a62.chunk.js",
+    "static/js/main.ac6f439d.chunk.js"
+  ]
+}

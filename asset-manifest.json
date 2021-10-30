@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.js": "/static/js/main.5e2f5317.chunk.js",
-    "main.js.map": "/static/js/main.5e2f5317.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.63b16990.js",
-    "runtime-main.js.map": "/static/js/runtime-main.63b16990.js.map",
-    "static/css/2.5764c7cc.chunk.css": "/static/css/2.5764c7cc.chunk.css",
-    "static/js/2.a2491779.chunk.js": "/static/js/2.a2491779.chunk.js",
-    "static/js/2.a2491779.chunk.js.map": "/static/js/2.a2491779.chunk.js.map",
-    "be6762d87d0caa6c7a2e23395f5e6a4e.js": "/be6762d87d0caa6c7a2e23395f5e6a4e.js",
-    "be6762d87d0caa6c7a2e23395f5e6a4e.js.LICENSE.txt": "/be6762d87d0caa6c7a2e23395f5e6a4e.js.LICENSE.txt",
+    "main.js": "/static/js/main.f97bf4f1.chunk.js",
+    "main.js.map": "/static/js/main.f97bf4f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2e8e232.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2e8e232.js.map",
+    "static/css/2.1e4d9d7d.chunk.css": "/static/css/2.1e4d9d7d.chunk.css",
+    "static/js/2.c09571b6.chunk.js": "/static/js/2.c09571b6.chunk.js",
+    "static/js/2.c09571b6.chunk.js.map": "/static/js/2.c09571b6.chunk.js.map",
+    "3bc629d5f743a1772f7a775c5f5fb0c1.js": "/3bc629d5f743a1772f7a775c5f5fb0c1.js",
+    "3bc629d5f743a1772f7a775c5f5fb0c1.js.LICENSE.txt": "/3bc629d5f743a1772f7a775c5f5fb0c1.js.LICENSE.txt",
     "index.html": "/index.html",
-    "static/css/2.5764c7cc.chunk.css.map": "/static/css/2.5764c7cc.chunk.css.map",
-    "static/js/2.a2491779.chunk.js.LICENSE.txt": "/static/js/2.a2491779.chunk.js.LICENSE.txt",
+    "static/css/2.1e4d9d7d.chunk.css.map": "/static/css/2.1e4d9d7d.chunk.css.map",
+    "static/js/2.c09571b6.chunk.js.LICENSE.txt": "/static/js/2.c09571b6.chunk.js.LICENSE.txt",
     "static/media/Chainlink_Logo_Blue.svg": "/static/media/Chainlink_Logo_Blue.eedfd27e.svg",
     "static/media/car.png": "/static/media/car.aa769a68.png",
     "static/media/gangster.svg": "/static/media/gangster.6dbfff28.svg",
     "static/media/logo.svg": "/static/media/logo.e0810acd.svg",
-    "static/media/logo_gang_101522.jpg": "/static/media/logo_gang_101522.adf89a54.jpg",
-    "static/media/logo_trans.png": "/static/media/logo_trans.ffa6c57b.png",
+    "static/media/logo_gang_101522.png": "/static/media/logo_gang_101522.ffb1950f.png",
     "static/media/missions.d5f7e797.PNG": "/static/media/missions.d5f7e797.PNG",
     "static/media/videobackground.eae8403b.mp4": "/static/media/videobackground.eae8403b.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.63b16990.js",
-    "static/css/2.5764c7cc.chunk.css",
-    "static/js/2.a2491779.chunk.js",
-    "static/js/main.5e2f5317.chunk.js"
+    "static/js/runtime-main.c2e8e232.js",
+    "static/css/2.1e4d9d7d.chunk.css",
+    "static/js/2.c09571b6.chunk.js",
+    "static/js/main.f97bf4f1.chunk.js"
   ]
 }
